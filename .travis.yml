@@ -1,5 +1,4 @@
 sudo: false
-cache: bundler
 language: ruby
 before_script:
   - gem install bundler -v 1.15.4
